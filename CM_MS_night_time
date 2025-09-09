@@ -1,0 +1,23 @@
+{
+  "global_legend": "",
+  "name": "SnowMed",
+  "no_logo": true,
+  "geoserver": {
+    "url": "https://geoserver.snowmed.it",
+    "load_layers": true
+  },
+  "timedimension": {
+    "layer_options": {
+      "layers": "snowmed:CM_MS_night",
+      "format": "image/png",
+      "transparent": true,
+      "attribution": "CF_MS_night"
+    },
+    "options": {
+      "timeInterval": "2018-01-01T00:00:00.000Z/2023-12-01T00:00:00.000Z",
+      "period": "P1M",
+      "currentTime": "2023-12-01T00:00:00.000Z",
+      "wmsVersion": "1.1.1"
+    }
+  }
+}
