@@ -1,7 +1,7 @@
 {
   "global_legend": "",
   "name": "SnowMed",
-  "sub_header": "Cloud Mask Statistics (daytime)",
+  "sub_header": "Cloud Fraction Monthly Statistics (daytime)",
   "legends": [
     {
       "layer": "snowmed:CF_MS_day",
