@@ -1,0 +1,24 @@
+{
+  "global_legend": "",
+  "name": "SnowMed",
+  "sub_header": "Annual Snow Cover CIA 20m",
+  "no_logo": true,
+  "geoserver": {
+    "url": "https://geoserver.snowmed.it",
+    "load_layers": true
+  },
+  "timedimension": {
+    "layer_options": {
+      "layers": "snowmed:Annual Snow Cover CIA 20m",
+      "format": "image/png",
+      "transparent": true,
+      "attribution": "CF_MS_night"
+    },
+    "options": {
+      "timeInterval": 2017-01-01T00:00:00.000Z/2023-01-01T00:00:00.000Z",
+      "period": "P1Y",
+      "currentTime": "2023-01-01T00:00:00Z",
+      "wmsVersion": "1.1.1"
+    }
+  }
+}
