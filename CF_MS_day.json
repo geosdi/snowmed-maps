@@ -2,7 +2,15 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Cloud Mask Statistics (daytime)",
-  "no_logo": true,
+  "legends": [
+    {
+      "layer": "snowmed:CF_MS_day",
+      "name": "snowmed:CF_MS_day"
+    }
+  ],
+  "logo": {
+    "visible": false
+  },
   "geoserver": {
     "url": "https://geoserver.snowmed.it",
     "load_layers": true
@@ -18,7 +26,8 @@
       "timeInterval": "2018-01-01T00:00:00.000Z/2023-12-01T00:00:00.000Z",
       "period": "P1M",
       "currentTime": "2023-12-01T00:00:00Z",
-      "wmsVersion": "1.1.1"
+      "wmsVersion": "1.1.1",
+      "timeFormat": "MMMM YYYY"
     }
   }
 }
