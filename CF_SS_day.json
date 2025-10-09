@@ -2,7 +2,15 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Cloud Fraction Seasonal Statistics (daytime)",
-  "no_logo": true,
+  "legends": [
+    {
+      "layer": "snowmed:CF_SS_day",
+      "name": "Units: %"
+    }
+  ],
+  "logo": {
+    "visible": false
+  },
   "geoserver": {
     "url": "https://geoserver.snowmed.it",
     "load_layers": true
@@ -18,7 +26,8 @@
       "timeInterval": "2018-03-01T00:00:00.000Z/2023-12-01T00:00:00.000Z",
       "period": "P3M",
       "currentTime": "2023-12-01T00:00:00Z",
-      "wmsVersion": "1.1.1"
+      "wmsVersion": "1.1.1",
+      "timeFormat": "MMMM YYYY"
     }
   }
 }
