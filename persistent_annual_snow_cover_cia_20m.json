@@ -2,7 +2,9 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Persistent Annual Snow Cover CIA 20m",
-  "no_logo": true,
+  "logo": {
+    "visible": false
+  },
   "geoserver": {
     "url": "https://geoserver.snowmed.it",
     "load_layers": true
@@ -19,6 +21,8 @@
       "period": "P1Y",
       "currentTime": "2023-01-01T00:00:00Z",
       "wmsVersion": "1.1.1"
+      ,
+      "timeFormat": "MMMM YYYY"
     }
   }
 }

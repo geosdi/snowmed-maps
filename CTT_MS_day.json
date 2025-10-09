@@ -2,7 +2,15 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Cloud Top Temperature Monthly Statistics (daytime)",
-  "no_logo": true,
+  "legends": [
+    {
+      "layer": "snowmed:CTT_MS_day",
+      "name": "snowmed:CTT_MS_day"
+    }
+  ],
+  "logo": {
+    "visible": false
+  },
   "geoserver": {
     "url": "https://geoserver.snowmed.it",
     "load_layers": true
@@ -17,8 +25,9 @@
     "options": {
       "timeInterval": "2018-01-01T00:00:00.000Z/2023-12-01T00:00:00.000Z",
       "period": "P1M",
-      "currentTime": "2023-12-01T00:00:00Z",
-      "wmsVersion": "1.1.1"
+      "currentTime": "2023-12-01T00:00:00.000Z",
+      "wmsVersion": "1.1.1",
+      "timeFormat": "MMMM YYYY"
     }
   }
 }
