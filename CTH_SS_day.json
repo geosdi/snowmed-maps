@@ -1,0 +1,24 @@
+{
+  "global_legend": "",
+  "name": "SnowMed",
+  "sub_header": "CTH SS day",
+  "no_logo": true,
+  "geoserver": {
+    "url": "https://geoserver.snowmed.it",
+    "load_layers": true
+  },
+  "timedimension": {
+    "layer_options": {
+      "layers": "snowmed:CTH_SS_day",
+      "format": "image/png",
+      "transparent": true,
+      "attribution": "CTH_SS_day"
+    },
+    "options": {
+      "timeInterval": "2018-03-01T00:00:00.000Z/2023-12-01T00:00:00.000Z",
+      "period": "P3M",
+      "currentTime": "2023-12-01T00:00:00Z",
+      "wmsVersion": "1.1.1"
+    }
+  }
+}
