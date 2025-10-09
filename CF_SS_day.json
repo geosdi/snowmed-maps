@@ -1,7 +1,7 @@
 {
   "global_legend": "",
   "name": "SnowMed",
-  "sub_header": "Cloud Fraction Seasonal Statistics Day",
+  "sub_header": "Cloud Fraction Seasonal Statistics (daytime)",
   "no_logo": true,
   "geoserver": {
     "url": "https://geoserver.snowmed.it",

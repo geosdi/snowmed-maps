@@ -1,7 +1,7 @@
 {
   "global_legend": "",
   "name": "SnowMed",
-  "sub_header": "CTP SS Day",
+  "sub_header": "Cloud Top Pressure Seasonal Statistics (daytime)",
   "no_logo": true,
   "geoserver": {
     "url": "https://geoserver.snowmed.it",

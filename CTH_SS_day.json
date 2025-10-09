@@ -1,7 +1,7 @@
 {
   "global_legend": "",
   "name": "SnowMed",
-  "sub_header": "CTH SS day",
+  "sub_header": "Cloud Top Height Seasonal Statistics (daytime)",
   "no_logo": true,
   "geoserver": {
     "url": "https://geoserver.snowmed.it",

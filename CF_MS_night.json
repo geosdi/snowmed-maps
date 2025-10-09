@@ -1,7 +1,7 @@
 {
   "global_legend": "",
   "name": "SnowMed",
-  "sub_header": "CF Mountly Statistics night",
+  "sub_header": "Cloud Fraction Monthly Statistics (nighttime)",
   "no_logo": true,
   "geoserver": {
     "url": "https://geoserver.snowmed.it",

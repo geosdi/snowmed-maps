@@ -1,7 +1,7 @@
 {
   "global_legend": "",
   "name": "SnowMed",
-  "sub_header": "CP_MS_water",
+  "sub_header": "Cloud Phase Monthly Statistics (water)",
   "no_logo": true,
   "geoserver": {
     "url": "https://geoserver.snowmed.it",
