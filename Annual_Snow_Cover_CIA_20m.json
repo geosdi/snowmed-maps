@@ -15,7 +15,7 @@
       "attribution": "CF_MS_night"
     },
     "options": {
-      "timeInterval": 2017-01-01T00:00:00.000Z/2023-01-01T00:00:00.000Z",
+      "timeInterval": "2017-01-01T00:00:00.000Z/2023-01-01T00:00:00.000Z",
       "period": "P1Y",
       "currentTime": "2023-01-01T00:00:00Z",
       "wmsVersion": "1.1.1"
