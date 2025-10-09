@@ -2,7 +2,15 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Annual Snow Cover CIA 20m",
-  "no_logo": true,
+  "legends": [
+    {
+      "layer": "snowmed:Annual Snow Cover CIA 20m",
+      "name": "snowmed:Annual Snow Cover CIA 20m"
+    }
+  ],
+  "logo": {
+    "visible": false
+  },
   "geoserver": {
     "url": "https://geoserver.snowmed.it",
     "load_layers": true
@@ -18,7 +26,8 @@
       "timeInterval": "2017-01-01T00:00:00.000Z/2023-01-01T00:00:00.000Z",
       "period": "P1Y",
       "currentTime": "2023-01-01T00:00:00Z",
-      "wmsVersion": "1.1.1"
+      "wmsVersion": "1.1.1",
+      "timeFormat": "MMMM YYYY"
     }
   }
 }
