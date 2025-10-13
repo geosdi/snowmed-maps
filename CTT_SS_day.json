@@ -2,6 +2,12 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Cloud Top Temperature Seasonal Statistics (daytime)",
+  "legends": [
+    {
+      "layer": "snowmed:CTT_SS_day",
+      "name": "snowmed:CTT_SS_day"
+    }
+  ],
   "logo": {
     "src": "./assets/timedimension-plugin/logo/snowmed.png",
     "width": 100,

@@ -2,6 +2,12 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Cloud Top Temperature Monthly Statistics (nighttime)",
+  "legends": [
+    {
+      "layer": "snowmed:CTT_MS_night",
+      "name": "snowmed:CTT_MS_night"
+    }
+  ],
   "logo": {
     "src": "./assets/timedimension-plugin/logo/snowmed.png",
     "width": 100,

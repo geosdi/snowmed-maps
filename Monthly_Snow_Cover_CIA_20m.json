@@ -2,6 +2,12 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Monthly Snow Cover CIA 20m",
+  "legends": [
+    {
+      "layer": "snowmed:Monthly Snow Cover CIA 20m",
+      "name": "snowmed:Monthly Snow Cover CIA 20m"
+    }
+  ],
   "logo": {
     "src": "./assets/timedimension-plugin/logo/snowmed.png",
     "width": 100,
