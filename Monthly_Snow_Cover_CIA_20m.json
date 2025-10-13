@@ -3,7 +3,9 @@
   "name": "SnowMed",
   "sub_header": "Monthly Snow Cover CIA 20m",
   "logo": {
-    "visible": false
+    "src": "./assets/timedimension-plugin/logo/snowmed.png",
+    "width": 100,
+    "height": 100
   },
   "geoserver": {
     "url": "https://geoserver.snowmed.it",
