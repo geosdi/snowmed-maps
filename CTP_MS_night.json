@@ -2,6 +2,12 @@
   "global_legend": "",
   "name": "SnowMed",
   "sub_header": "Cloud Top Pressure Monthly Statistics (nighttime)",
+  "legends": [
+    {
+      "layer": "snowmed:CTP_MS_night",
+      "name": "snowmed:CTP_MS_night"
+    }
+  ],
   "logo": {
     "src": "./assets/timedimension-plugin/logo/snowmed.png",
     "width": 100,
