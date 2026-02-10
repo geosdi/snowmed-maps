@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pietrattina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.9116, 41.8794]
+      }
+    }
+  ]
+}
