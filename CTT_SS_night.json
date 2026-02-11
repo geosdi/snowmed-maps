@@ -4,7 +4,7 @@
   "sub_header": "Cloud Top Temperature Seasonal Statistics (nighttime)",
   "legends": [
     {
-      "layer": "CTT_SS_night (K)",
+      "layer": "snowmed:CTT_SS_night",
       "name": "CTT_SS_night (K)"
     }
   ],
