@@ -5,7 +5,7 @@
   "legends": [
     {
       "layer": "snowmed:Surface Temp Monthly Snow Cover CIA 20m",
-      "name": "snowmed:Surface Temp Monthly Snow Cover CIA 20m"
+      "name": "Surface Temp Monthly Snow Cover CIA 20m (K)"
     }
   ],
   "logo": {
