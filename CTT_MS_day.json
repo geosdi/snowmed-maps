@@ -5,7 +5,7 @@
   "legends": [
     {
       "layer": "snowmed:CTT_MS_day",
-      "name": "snowmed:CTT_MS_day"
+      "name": "CTT_MS_day (K)"
     }
   ],
   "logo": {

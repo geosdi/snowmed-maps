@@ -5,7 +5,7 @@
   "legends": [
     {
       "layer": "snowmed:CTP_MS_day",
-      "name": "snowmed:CTP_MS_day"
+      "name": "CTP_MS_day (hPa)"
     }
   ],
   "logo": {
